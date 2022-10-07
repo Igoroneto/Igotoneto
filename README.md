@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="[(https://www.linkedin.com/in/igor-da-silva-48563a196/)]"><i>Igor Silva</i></a> 😃️</h1>
-  <p align="center">Estou estudando para me tornar um FullStack na <a href="(https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/)"><i>Uniter</i></a> 
+  <p align="center">Estou estudando para me tornar um FullStack na <a href="(https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/)"><i>UNINTER</i></a> 
   <p align="center">Já segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
